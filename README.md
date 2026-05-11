@@ -1,4 +1,4 @@
-# Apellido_Nombre_Modelamiento_Paralelo
+# Carrasco_Lesly_Modelamiento_B
 ## Aprendizaje Supervisado para Clasificación | Dataset Wine
 
 ### 📋 Descripción
